@@ -1,0 +1,22 @@
+{
+  "id": 456264,
+  "customer": {
+    "customerId": 421455,
+    "firstName": "Jack",
+    "lastName": "Black",
+    "email": "customer@email.com"
+  },
+  "materials": [
+    {
+      "materialName": "ball",
+      "cost": 100.0,
+      "quantity": 3
+    },
+    {
+      "materialName": "spoon",
+      "cost": 19.8,
+      "quantity": 5
+    }
+  ],
+  "totalCost": 1224.50
+}
